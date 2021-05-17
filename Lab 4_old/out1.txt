@@ -1,0 +1,2 @@
+Terdapat 30 baris dan 795 karakter pada file in1.txt
+Rata-rata jumlah karakter dalam baris adalah 26.50 karakter

@@ -1,0 +1,2 @@
+Terdapat 17 baris dan 384 karakter pada file in2.txt
+Rata-rata jumlah karakter dalam baris adalah 22.59 karakter

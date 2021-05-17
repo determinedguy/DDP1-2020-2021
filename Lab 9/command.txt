@@ -1,0 +1,1 @@
+cat in5.txt | python3 MuhammadAthallah_C_fantasi_terakhir.py

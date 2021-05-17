@@ -1,0 +1,2 @@
+Terdapat 3 baris, 7 kata, dan 33 karakter pada file in0.txt
+Rata-rata baris mengandung 2.33 kata dan 11.00 karakter
